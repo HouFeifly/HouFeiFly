@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://img.shields.io/badge/java-1.0-brightgreen)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=houfeifly&theme=dracula)
